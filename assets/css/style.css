@@ -51,7 +51,9 @@ a {
 p {
     font-size: 16px;
 }
+/* HEADER / NAVBAR STYLES END */
 
+/* HERO STYLES START */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,7 +72,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* HERO STYLES END */
 
+/* CONTENT SECTION START */
 .content {
     width: 75%;
     display: inline-block;
@@ -130,7 +134,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* CONTENT SECTION ENDS */
 
+/* BENEFITS SECTION START */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -189,7 +195,9 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* BENEFITS SECTION END */
 
+/* FOOTER STYLES START */
 .footer {
     padding: 30px;
     clear: both;
@@ -202,3 +210,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* END FOOTER STYLES */
